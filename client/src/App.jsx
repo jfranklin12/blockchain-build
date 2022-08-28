@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import React, { useState } from 'react'
 import { Navbar, Welcome, Footer, Services, Transactions } from './components'
 
 function App() {
